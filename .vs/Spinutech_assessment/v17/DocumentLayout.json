@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|c:\\users\\a\\source\\repos\\spinutech_assessment\\spinutech_assessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|solutionrelative:spinutech_assessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|c:\\users\\a\\source\\repos\\spinutech_assessment\\spinutech_assessment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|solutionrelative:spinutech_assessment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|c:\\users\\a\\source\\repos\\spinutech_assessment\\spinutech_assessment\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|solutionrelative:spinutech_assessment\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|c:\\users\\a\\source\\repos\\spinutech_assessment\\spinutech_assessment\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|solutionrelative:spinutech_assessment\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|c:\\users\\a\\source\\repos\\spinutech_assessment\\spinutech_assessment\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|solutionrelative:spinutech_assessment\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|c:\\users\\a\\source\\repos\\spinutech_assessment\\spinutech_assessment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|solutionrelative:spinutech_assessment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|c:\\users\\a\\source\\repos\\spinutech_assessment\\spinutech_assessment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|solutionrelative:spinutech_assessment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|c:\\users\\a\\source\\repos\\spinutech_assessment\\spinutech_assessment\\models\\amountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|solutionrelative:spinutech_assessment\\models\\amountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|c:\\users\\a\\source\\repos\\spinutech_assessment\\spinutech_assessment\\controllers\\amountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|solutionrelative:spinutech_assessment\\controllers\\amountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|c:\\users\\a\\source\\repos\\spinutech_assessment\\spinutech_assessment\\views\\amount\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F9EBA2-5829-48F2-8944-BF685265D9C4}|Spinutech_assessment\\Spinutech_assessment.csproj|solutionrelative:spinutech_assessment\\views\\amount\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\appsettings.json",
+              "RelativeDocumentMoniker": "Spinutech_assessment\\appsettings.json",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\appsettings.json",
+              "RelativeToolTip": "Spinutech_assessment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T23:28:06.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Spinutech_assessment\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Spinutech_assessment\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T23:27:40.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Spinutech_assessment\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Spinutech_assessment\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:27:35.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Spinutech_assessment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Spinutech_assessment\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:27:31.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Spinutech_assessment\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Spinutech_assessment\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:27:26.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Spinutech_assessment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Spinutech_assessment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:27:24.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Spinutech_assessment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Spinutech_assessment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:16:14.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AmountController.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Controllers\\AmountController.cs",
+              "RelativeDocumentMoniker": "Spinutech_assessment\\Controllers\\AmountController.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Controllers\\AmountController.cs",
+              "RelativeToolTip": "Spinutech_assessment\\Controllers\\AmountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:17:29.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AmountModel.cs",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Models\\AmountModel.cs",
+              "RelativeDocumentMoniker": "Spinutech_assessment\\Models\\AmountModel.cs",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Models\\AmountModel.cs",
+              "RelativeToolTip": "Spinutech_assessment\\Models\\AmountModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:01:57.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\Amount\\Index.cshtml",
+              "RelativeDocumentMoniker": "Spinutech_assessment\\Views\\Amount\\Index.cshtml",
+              "ToolTip": "C:\\Users\\A\\source\\repos\\Spinutech_assessment\\Spinutech_assessment\\Views\\Amount\\Index.cshtml",
+              "RelativeToolTip": "Spinutech_assessment\\Views\\Amount\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T21:35:32.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
